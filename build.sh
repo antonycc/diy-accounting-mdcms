@@ -12,13 +12,13 @@ cp -r 'content/'* './build/.'
 
 ls -lrt './build'
 
-cat './index.html' | sed '$d' | sed '$d' | sed '$d' | sed '$d' > './build/content.html'
+cat './index.html' | sed '$d' | sed '$d' | sed '$d' | sed '$d' > './build/index.html'
 cd './build'
 ls -1 *.md | while read line; do
-  echo "<a href=\"$line\">$line</a><br/>" >> './content.html'
-  echo "$line" >> './content.txt'
+  echo "<a href=\"$line\">$line</a><br/>" >> './index.html'
+  echo "$line" >> './index.txt'
 done
-echo "</body>" >> './content.html'
-echo "</html>" >> './content.html'
-cat './content.html'
+echo "</body>" >> './index.html'
+echo "</html>" >> './index.html'
+cat './index.html'
 cd ..
