@@ -24,3 +24,7 @@ echo "</body>" >> './index.html'
 echo "</html>" >> './index.html'
 cat './index.html'
 cd ..
+
+cp './catalogueBundlePrices.properties' './build/.'
+cp './catalogueNameContentItemName.properties' './build/.'
+
