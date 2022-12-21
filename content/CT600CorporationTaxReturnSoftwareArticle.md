@@ -46,7 +46,7 @@ CT600CorporationTaxReturnSoftwareArticle
     <br>
     <strong>Corporation Tax Software</strong>
     <br>
-    <a href="http://176.34.228.245:8080/diyaccounting-gb-web/Company-Accounts-Product.do">DIY Accounting company accounts</a> packages contain corporation tax software that automates the production of the CT600 UK corporation tax return. From the net taxable profit the financial accounts file contains a worksheet that collects the taxable profit and the capital allowances from the automated trial balance and using the current corporation tax rate applicable calculates the corporation tax. The UK corporation tax software then completes an excel copy of the CT600 which is the small corporation tax return which is in the same format as the official HMRC short version To complete the submission to HMRC clients simply print out the UK corporation tax return produced by the software and copy the figures.&nbsp;
+    <a href="product.html?product=CompanyAccountsProduct">DIY Accounting company accounts</a> packages contain corporation tax software that automates the production of the CT600 UK corporation tax return. From the net taxable profit the financial accounts file contains a worksheet that collects the taxable profit and the capital allowances from the automated trial balance and using the current corporation tax rate applicable calculates the corporation tax. The UK corporation tax software then completes an excel copy of the CT600 which is the small corporation tax return which is in the same format as the official HMRC short version To complete the submission to HMRC clients simply print out the UK corporation tax return produced by the software and copy the figures.&nbsp;
 </p>
 
 

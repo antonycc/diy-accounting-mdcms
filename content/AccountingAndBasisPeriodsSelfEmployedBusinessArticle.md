@@ -26,7 +26,7 @@ Accounting Periods And Basis Periods For Self Employed Business
     <br>
      
     <br>
-    The objective of any <a href="http://176.34.228.245:8080/diyaccounting-gb-web/home.do">bookkeeping software</a>&nbsp;is being able to maintain accurate financial records and produce the accounting records and totals required to complete the inland revenue<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employment tax return</a> each year. <a href="article.html?article=SmallBusinessAccountingSoftwareforFinancialControlArticle">Financial control</a> is very important and the bookkeeping software should also produce regular financial statements showing the profit and loss of the business throughout the accounting trading periods.
+    The objective of any <a href="home.html">bookkeeping software</a>&nbsp;is being able to maintain accurate financial records and produce the accounting records and totals required to complete the inland revenue<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employment tax return</a> each year. <a href="article.html?article=SmallBusinessAccountingSoftwareforFinancialControlArticle">Financial control</a> is very important and the bookkeeping software should also produce regular financial statements showing the profit and loss of the business throughout the accounting trading periods.
     <br>
      
     <br>
@@ -34,7 +34,7 @@ Accounting Periods And Basis Periods For Self Employed Business
     <br>
      
     <br>
-    In the UK tax rules are set for each financial year and by adopting the standard tax year a small business can benefit by preparing the financial accounts under a single set of tax rules and preparing the <a href="http://www.diyaccounting.co.uk/Self-Employed-Product-With-Self-Assessment-Feature.do">self assessment tax return</a> accordingly. Adopting a different financial period involves straddling the official tax year and more than one set of tax rules might be applicable to the tax calculation resulting from the net profit being declared.
+    In the UK tax rules are set for each financial year and by adopting the standard tax year a small business can benefit by preparing the financial accounts under a single set of tax rules and preparing the <a href="feature.html?feature=SelfAssessmentFeature&product=SelfEmployedProduct">self assessment tax return</a> accordingly. Adopting a different financial period involves straddling the official tax year and more than one set of tax rules might be applicable to the tax calculation resulting from the net profit being declared.
     <br>
      
     <br>
@@ -42,7 +42,7 @@ Accounting Periods And Basis Periods For Self Employed Business
     <br>
      
     <br>
-    When a <a href="http://176.34.228.245:8080/diyaccounting-gb-web/Self-Employed-Product.do">self employed business</a> has been in business for two or three years and has chosen a different 12 month accounting period to the financial tax year the 12 month tax is calculated according to a basis period. Up until that point the accounts may be subject to apportionment to calculate the tax due.
+    When a <a href="product.html?product=SelfEmployedProduct">self employed business</a> has been in business for two or three years and has chosen a different 12 month accounting period to the financial tax year the 12 month tax is calculated according to a basis period. Up until that point the accounts may be subject to apportionment to calculate the tax due.
     <br>
      
     <br>
@@ -50,7 +50,7 @@ Accounting Periods And Basis Periods For Self Employed Business
     <br>
      
     <br>
-    If the accounting date is changed when preparing the <a href="http://176.34.228.245:8080/diyaccounting-gb-web/Basic-Sole-Trader-Product.do">sole trader accounts</a> HMRC are informed of the change on the<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employed tax return</a> and the reasons for the change. If as a result the<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employed tax return</a> arrives late the tax will be assessed on the previous basis period.
+    If the accounting date is changed when preparing the <a href="product.html?product=BasicSoleTraderProduct">sole trader accounts</a> HMRC are informed of the change on the<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employed tax return</a> and the reasons for the change. If as a result the<a href="article.html?article=SelfEmployedSelfAssessmentTaxReturnAccountingArticle"> self employed tax return</a> arrives late the tax will be assessed on the previous basis period.
     <br>
      
     <br>
