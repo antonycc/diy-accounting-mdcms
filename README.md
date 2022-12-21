@@ -54,3 +54,4 @@ AccountingPeriodOver12MonthsArticle.md
 * Contribution guidelines
 * Ensure index page is well-formed
 * Publish content as a JAR file
+* Test change 1
