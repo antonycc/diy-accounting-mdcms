@@ -8,30 +8,19 @@ Contact Us - DIY Accounting Limited
 Have you tried our support forum for answers?
 
 # body
-<p>
-You can call or email us and a member of staff will contact you as quickly as possible.&nbsp;Please leave a message
-when you call.
+<p>We have switched DIY Accounting's spreadsheet packages to a new Open Source model. In return for allowing anyone access to our source files, we find an indefinite low cost home at GitHub. We continue to keep the website up with downloads for up-to-date packages. This model relies upon community support (an online forum) and accepting donations instead of retaining paid staff and charging a fee.<br/>
+<br/>
+Please raise a question in our <a href="https://github.com/antonycc/diy-accounting/discussions" rel="nofollow">discussion forum</a>.<br/>
+<br/>
+Or <a href="https://www.paypal.com/donate/?hosted_button_id=XTEQ73HM52QQW" rel="nofollow">donate</a> to help us keep the packages updated <br/>
+<br/>
+Company contact points remain the same but this address, support (at) diyaccounting.co.uk, is no longer staffed or monitored for queries.<br/>
 </p>
 
 
 # trailingBody
 <p>
-    <strong>Technical Support and&nbsp;<strong>Customer Service</strong></strong>
-</p>
-<p>
-    email (preferred):
-    <a href="mailto:support@diyaccounting.co.uk" rel="nofollow" style="text-decoration: none;">support@diyaccounting.co.uk</a>
-</p>
-<p>
-    Facebook: 
-    <br/>
-    <a href="https://www.facebook.com/DIY.Accounting.Software/" rel="nofollow">https://www.facebook.com/DIY.Accounting.Software/</a>
-</p>
-<p>
-    <br/>
-</p>
-<p>
-    <strong>Name &amp; Registered office</strong>
+    <strong>Registered office</strong>
 </p>
 <p>
     DIY Accounting Limited
