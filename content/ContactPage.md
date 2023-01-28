@@ -8,7 +8,7 @@ Contact Us - DIY Accounting Limited
 Have you tried our support forum for answers?
 
 # body
-<p>We have switched DIY Accounting's spreadsheet packages to a new Open Source model. In return for allowing anyone access to our source files, we find an indefinite low cost home at GitHub. We continue to keep the website up with downloads for up-to-date packages. This model relies upon community support (an online forum) and accepting donations instead of retaining paid staff and charging a fee.<br/>
+<p>We have switched DIY Accounting's spreadsheet packages to an Open Source model. In return for allowing anyone access to our source files, we find an indefinite low cost home at GitHub. We continue to keep the website up with downloads for up-to-date packages. This model relies upon community support (an online forum) and accepting donations instead of retaining paid staff and charging a fee.<br/>
 <br/>
 Please raise a question in our <a href="https://github.com/antonycc/diy-accounting/discussions" rel="nofollow">discussion forum</a>.<br/>
 <br/>
