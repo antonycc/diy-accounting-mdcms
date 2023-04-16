@@ -7,8 +7,20 @@ Cabsmart Private Hire & Mini Cab Taxi Driver Accounts Software
 # shortTitle
 Taxi Driver
 
+# currencySymbol
+£
+
+# currencyCode
+GBP
+
 # from
-20
+0
+
+# ratingValue
+5
+
+# ratingCount
+3
 
 # description
 DIY Accounting Cabsmart taxi driver accounts is the practical easy-to-use bookkeeping software solution to taxi drivers accounts, designed on excel spreadsheets specifically for self-employed private hire, mini cab, taxi drivers, van driver and couriers, enabling you to reduce your taxi accounting work to hours instead of days.

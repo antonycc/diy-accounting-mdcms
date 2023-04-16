@@ -7,8 +7,20 @@ Abbreviated limited company account financial accounts software
 # shortTitle
 Company Accounts
 
+# currencySymbol
+£
+
+# currencyCode
+GBP
+
 # from
-45
+0
+
+# ratingValue
+5
+
+# ratingCount
+3
 
 # description
 Small business accounting software UK package suitable for a limited liability company that can be <a href="feature.html?feature=VatReturnsFeature">vat registered</a> or not registered and also who may have employees. All limited company has at least one employee being the director. The company accounts software is based upon double entry bookkeeping principles and fully integrated with the Payroll software for up to 5 , 10 or 20 employees simply by saving the accountancy software files into the same folder as the payroll software files. The company accounts software produces quarterly <a href="feature.html?feature=VatReturnsFeature">vat returns</a> for vet registered companies,<a href="feature.html?feature=CompanyProfitandLossFeature"> profit &amp; loss accounts</a>, balance sheet and all the documents to submit a set of final year end accounts to Companies House including notes to the accounts software providing a simple yet complete package for a limited company. Financial accounting software packages are available for each financial accounts tax year end from 2007 to 2015, 2016, 2017, 2018, 2019, &nbsp; Limited company UK Accounting Software packages incorporate tax return software to complete the corporation tax calculation and fill in the CT600 company short tax return providing the ultimate solution in <a href="feature.html?feature=TaxandAssetsFeature">small business tax software</a>.

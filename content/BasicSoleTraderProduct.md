@@ -7,8 +7,20 @@ Sole Trader Simple Bookkeeping, Tax and Basic Accounts Spreadsheet
 # shortTitle
 Basic Sole Trader
 
+# currencySymbol
+£
+
+# currencyCode
+GBP
+
 # from
-20
+0
+
+# ratingValue
+5
+
+# ratingCount
+3
 
 # description
 Simplest personal accounting software package consisting of a sales accounting spreadsheet, purchases accounting spreadsheet and a financial accounts file. <u><a href="product.html?product=BasicSoleTraderProduct">Small business accounting</a></u> software UK package <u><a href="product.html?product=BasicSoleTraderProduct">suitable for sole traders</a></u> that are <strong>not vat registered</strong>, will not be vat registered in the future and do not have employees. A simple book keeping system with fast entry of financial information into the accounts package with <a href="feature.html?feature=ProfitAndLossFeature">profit &amp; loss account</a> automated and the <strong>Self employed short tax return</strong> suitable for businesses that will not become vat registered during the financial year replacing the work a tax accountant might perform. Basic accounting software that is the easy accountancy software of choice being the simplest small business accounts software where bank financial accounting software spreadsheets and the payroll solution are not required.

@@ -7,8 +7,20 @@ Self employed tax form accounting and self assessment tax return
 # shortTitle
 Self Employed
 
+# currencySymbol
+£
+
+# currencyCode
+GBP
+
 # from
-25
+0
+
+# ratingValue
+5
+
+# ratingCount
+3
 
 # description
 <p>

@@ -7,8 +7,20 @@ Payslip Generator
 # shortTitle
 Payslip
 
+# currencySymbol
+£
+
+# currencyCode
+GBP
+
 # from
-2
+0
+
+# ratingValue
+5
+
+# ratingCount
+3
 
 # description
 <p>
